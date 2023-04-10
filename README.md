@@ -1,14 +1,12 @@
 # Portifólio
 
-
-
-
-
 ## O que foi desenvolvido
 
 Neste projeto, utilizando Vite, React e Sass foi desenvolvido um portifólio web.
 
 ---
+
+<img alingn="center" alt="portifolio" src="https://github.com/tarcisioliboni/portifolio/blob/main/src/img/screenshot.png"/>
 
 ## Habilidades
 
@@ -19,6 +17,7 @@ Neste projeto, utilizando Vite, React e Sass foi desenvolvido um portifólio web
 
 https://tarcisioliboni.github.io/portifolio/
 
+---
 
-## Este projeto tem como base uma aula de SASS do professor Matheus Battisti.
+Este projeto tem como base uma aula de SASS do professor Matheus Battisti.
 
