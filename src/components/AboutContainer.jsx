@@ -8,6 +8,9 @@ const AboutContainer = () => {
       <p>     
         Estou em transição de carreira, a qual anteriormente trabalhei como DJ e Técnico de Áudio e Iluminação por vários anos.
       </p>
+      <p>
+        Atualmete estou fazendo a certificação de UX Design do Google e também me aprofundando mais no estudo de front-end.
+      </p>
     </section>
   );
 };

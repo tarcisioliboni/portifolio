@@ -13,8 +13,8 @@
     padding: 3rem 0
 
     img
-        max-width: 70%
-        border-radius: variables.$container-border-radius
+        max-width: 300px
+        border-radius: 50%
         position: absolute
         top: -3rem
 
@@ -22,9 +22,17 @@
         color: variables.$text-color-secondary
         background-color: variables.$bg-color-secondary
         border-radius: variables.$card-border-radius
-        margin-top: 12rem
+        margin-top: 1rem
         padding: .8rem 1.2rem
 
     .btn
         @include mixins.btn
+
+    .name
+        width: 100%
+        font-size: 3rem
+        margin-top: 13rem
+        background: variables.$gradient
+        -webkit-background-clip: text
+        -webkit-text-fill-color: transparent
         
